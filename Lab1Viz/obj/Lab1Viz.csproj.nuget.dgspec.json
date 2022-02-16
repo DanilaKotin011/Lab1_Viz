@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Desktop\\Lab1Viz\\Lab1Viz\\Lab1Viz.csproj": {}
+    "C:\\Users\\1\\Desktop\\Lab1_Viz\\Lab1Viz\\Lab1Viz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Desktop\\Lab1Viz\\Lab1Viz\\Lab1Viz.csproj": {
+    "C:\\Users\\1\\Desktop\\Lab1_Viz\\Lab1Viz\\Lab1Viz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\Lab1Viz\\Lab1Viz\\Lab1Viz.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\Lab1_Viz\\Lab1Viz\\Lab1Viz.csproj",
         "projectName": "Lab1Viz",
-        "projectPath": "C:\\Users\\1\\Desktop\\Lab1Viz\\Lab1Viz\\Lab1Viz.csproj",
+        "projectPath": "C:\\Users\\1\\Desktop\\Lab1_Viz\\Lab1Viz\\Lab1Viz.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\Lab1Viz\\Lab1Viz\\obj\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\Lab1_Viz\\Lab1Viz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
